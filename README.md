@@ -8,6 +8,8 @@ or Raspberry CM4 to gain access to Lightning Network functions and offer shopkee
 This project is under GPL3 and is for fun only. I do not promise I will finish it or that it will fully work.
 Reverse ingineering closed products may be difficult as some parts may not be documented (thermal printer for instance; magnetic strip readers etc...)
 
+Interesting technical information can also be found here: https://fccid.io/XKB-IWLTBB 
+
 @sulfuroid
 
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/posoriginal.jpg)
