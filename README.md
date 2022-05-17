@@ -49,7 +49,12 @@ Once the scan is done, the image is saved and imported in a modelization softwar
 
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/sw2020.jpg)
 
-What we have to do now is to draw the board's shape.
+What we have to do now is to draw the board's shape. Save it to DXF format.
+
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/Untitled.JPG)
+
+Once done you have a cool board you can import as DXF into KIKAD.org pcb design software
+
 
 
 
