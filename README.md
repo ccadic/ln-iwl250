@@ -45,7 +45,7 @@ Once done, we place the pcb onto the scanner glass, aligne it so it is parallel 
 
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/ingenico%20pcb.jpg)
 
-Once the scan is done, the image is saved and importer in a modelization software. Here we use Solidworks.
+Once the scan is done, the image is saved and imported in a modelization software. Here we use Solidworks.
 
 
 
