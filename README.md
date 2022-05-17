@@ -55,6 +55,8 @@ What we have to do now is to draw the board's shape. Save it to DXF format.
 
 Once done you have a cool board you can import as DXF into KIKAD.org pcb design software
 
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/importkicad-3.jpg)
+
 
 
 
