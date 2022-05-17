@@ -16,3 +16,18 @@ Reverse ingineering closed products may be difficult as some parts may not be do
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/touchpad-pcb.jpg)
 
 I will explain the process of cloning the devive, step by step.
+
+
+**Removing all covers
+**
+It is easy to remove the cover if you remove all the screws with the appropriate tool. The screws are not classic cruciforms.
+You will need a "star" style screwdriver.
+
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/mainboardback1.jpg)
+The bottom of the main PCB is simple  and hold the credit card chip reader. 
+Something which is probably the GSM module
+At the top, you have the backup battery which is soldered onto the PCB 
+On its right you have the yellow battery connector.
+On its left, you have the SMD buzzer
+
+
