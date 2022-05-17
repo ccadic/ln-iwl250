@@ -10,5 +10,9 @@ Reverse ingineering closed products may be difficult as some parts may not be do
 
 @sulfuroid
 
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/posoriginal.jpg)
+
 
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/touchpad-pcb.jpg)
+
+I will explain the process of cloning the devive, step by step.
