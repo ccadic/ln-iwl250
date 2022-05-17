@@ -36,6 +36,16 @@ On its left, you have the SMD buzzer
 ![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/keyboardpcb.jpg)
 The front side of the main pcb is the area where you find the KB touch contacts. They are covered by a white sticker.
 
+**Preparing the PCB for a paper scanner
+**
+
+We have to take the main pcb appart, remove all smd components from the side we are going to scan.
+Once all components are removed we apply sand paper on the surface to remove all irregularities and prepare the surface for a good scanning.
+Once done, we place the pcb onto the scanner glass, aligne it so it is parallel with X and Y axis, then stat a 600 dpi scann.
+
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/ingenico%20pcb.jpg)
+
+Once the scan is done, the image is saved and importer in a modelization software. Here we use Solidworks.
 
 
 
