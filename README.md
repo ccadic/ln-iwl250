@@ -1,5 +1,5 @@
 # ln-iwl250
-Project to clone an iwl-250 to make it comptible with Lightning Network paiments
+Project to clone an iwl-250 to make it compatible with Lightning Network paiments
 
 Hi all . This project consists in the reverse engineering of an old POS (Ingenico iWM-25O) terminal.
 I'm trying to clone the main pcboard so we can replace the original one with the custom modified one and use an EDP32S2 
