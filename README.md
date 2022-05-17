@@ -33,4 +33,9 @@ At the top, you have the backup battery which is soldered onto the PCB
 On its right you have the yellow battery connector.
 On its left, you have the SMD buzzer
 
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/keyboardpcb.jpg)
+The front side of the main pcb is the area where you find the KB touch contacts. They are covered by a white sticker.
+
+
+
 
