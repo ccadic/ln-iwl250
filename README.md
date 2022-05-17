@@ -9,6 +9,7 @@ This project is under GPL3 and is for fun only. I do not promise I will finish i
 Reverse ingineering closed products may be difficult as some parts may not be documented (thermal printer for instance; magnetic strip readers etc...)
 
 Interesting technical information can also be found here: https://fccid.io/XKB-IWLTBB 
+The charging base information is there: https://fccid.io/XKB-IWLBBB
 
 @sulfuroid
 
