@@ -47,5 +47,10 @@ Once done, we place the pcb onto the scanner glass, aligne it so it is parallel 
 
 Once the scan is done, the image is saved and imported in a modelization software. Here we use Solidworks.
 
+![Ingenico iwl250 reverse engineering](https://github.com/ccadic/ln-iwl250/blob/main/iwl250pix/sw2020.jpg)
+
+What we have to do now is to draw the board's shape.
+
+
 
 
